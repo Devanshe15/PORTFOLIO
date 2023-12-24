@@ -9,10 +9,6 @@
 
 #### About Page
 <img src="website_images/ABOUT PAGE.png" width="900">
-
-
-#### Projects Page
-<img src="website_images/PROJECTS.png" width="900">
   
 
 ## Features 📋
